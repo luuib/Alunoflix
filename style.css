@@ -1,6 +1,6 @@
 body {
-    background: black;
-    color: white;
+    background-image: linear-gradient(red, black); 
+    color: whitesmoke;
     margin: 0px;
 }
 
