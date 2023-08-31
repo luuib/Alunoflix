@@ -2,6 +2,8 @@ body {
     background-image: linear-gradient(red, black); 
     color: whitesmoke;
     margin: 0px;
+    font-size: 16px;                        
+    font-weight: 400;
 }
 
 header {
@@ -16,3 +18,4 @@ section {
     padding-top: 80px;
     padding-bottom: 80px;
 }
+
